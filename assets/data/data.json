@@ -135,26 +135,31 @@
         {
             "image": "/platzi.jpg",
             "title": "Logical Thinking",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/3222-course/diploma/detalle/"
         },
         {
             "image": "/platzi.jpg",
             "title": "Algorithms and Flowcharts",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/3221-course/diploma/detalle/"
         },
         {
             "image": "/platzi.jpg",
             "title": "Fundamentals of Mathematics",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/1393-course/diploma/detalle/"
         },
         {
             "image": "/platzi.jpg",
             "title": "Introduction to command line",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/2292-course/diploma/detalle/"
         },
         {
             "image": "/platzi.jpg",
             "title": "Basic Excel",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/4036-course/diploma/detalle/"
         },
         {
@@ -170,16 +175,19 @@
         {
             "image": "/platzi.jpg",
             "title": "Matplotlib amd seaborn",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/2913-course/diploma/detalle/"
         },
         {
             "image": "/platzi.jpg",
             "title": "Intermediate Excel",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/4037-course/diploma/detalle/"
         },
         {
             "image": "/platzi.jpg",
             "title": "Descriptive Statistics",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/2353-course/diploma/detalle/"
         }
     ]

@@ -30,9 +30,10 @@ class Info:
 
 
 class Extra:
-    def __init__(self, image, title, url):
+    def __init__(self, image, description, title, url):
         self.image = image
         self.title = title
+        self.description = description
         self.url = url
 
 
