@@ -1,33 +1,33 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Miguel Soler | Portfolio",
+    "description": "I'm Miguel, a data enthusiast with a deep passion for data analysis and machine learning, constantly seeking to turn data into actionable insights.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Miguel Soler",
+    "skill": "Data analysis, visualization and modeling",
+    "location": "Bogotá, Colombia",
     "media": {
         "email": "m.angel.s.o@hotmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/Miguel9Angel",
         "likedin": "https://linkedin.com/in/miguel-soler-ml"
     },
-    "about": "My name is Miguel Angel Soler Otalora, a mechanical engineer with a background in data science and artificial intelligence. I combine the analytical and structured thinking of engineering with modern skills in data analysis, visualization, and predictive modeling.",
+    "about": "I’m Miguel Angel Soler Otalora, a mechanical engineer with a strong foundation in data science and artificial intelligence. I blend the analytical and problem-solving mindset of engineering with modern tools and techniques in data analysis, visualization, and predictive modeling to generate actionable insights and drive data-informed decisions.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
             "name": "Python"
         },
         {
-            "icon": "devicon-numpy-original",
+            "icon": "devicon-numpy-plain",
             "name": "NumPy"
         },
         {
-            "icon": "devicon-pandas-original",
+            "icon": "devicon-pandas-original-wordmark",
             "name": "Pandas"
         },
         {
-            "icon": "devicon-scikit-learn-plain",
+            "icon": "devicon-scikitlearn-plain",
             "name": "Scikit-learn"
         },
         {
@@ -42,38 +42,42 @@
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "Personal Project",
+            "subtitle": "Data Scientist",
+            "description": "I collected data using web scraping from Real Estate.\nI performed exploratory analysis, feature selection, and modeling with various models.",
+            "date": "2025"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Apartment price rent forecast (Bogota)",
+            "subtitle": "Personal Project",
+            "description": "Model developed to predict the rental price of apartments in Bogotá based on their location and features",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-pandas-original",
+                    "name": "Pandas"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+                {
+                    "icon": "devicon-scikit-learn-plain",
+                    "name": "Scikit-learn"
+                },
+                {
+                    "icon": "devicon-beautifulsoup-plain",
+                    "name": "Web Scraping"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/Miguel9Angel/home_prices_predictor.git"
         },
         {
             "icon": "bug-off",
