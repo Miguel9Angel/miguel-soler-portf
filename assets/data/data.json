@@ -115,7 +115,7 @@
             "date": "June 2018 - April 2022"
         },
         {
-            "icon": "certificate",
+            "icon": "school",
             "title": "Google Data Analytics",
             "subtitle": "Coursera",
             "description": "Professional certificate covering data cleaning, analysis, visualization, and SQL using real-world business scenarios.",
@@ -123,7 +123,7 @@
             "certificate": "https://coursera.org/share/a7c9dd97708037a2592a0c5237077d9a"
         },
         {
-            "icon": "certificate",
+            "icon": "school",
             "title": "Google Advanced Data Analytics",
             "subtitle": "Coursera",
             "description": "Advanced training in statistics, machine learning, predictive modeling, and data-driven decision making using Python.",
