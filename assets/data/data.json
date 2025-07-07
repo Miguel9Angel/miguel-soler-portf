@@ -7,32 +7,36 @@
     "skill": "Programador, hacker y el Elegido",
     "location": "Matrix y el mundo real",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "m.angel.s.o@hotmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/Miguel9Angel",
+        "likedin": "https://linkedin.com/in/miguel-soler-ml"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "My name is Miguel Angel Soler Otalora, a mechanical engineer with a background in data science and artificial intelligence. I combine the analytical and structured thinking of engineering with modern skills in data analysis, visualization, and predictive modeling.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
-        {
-            "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-numpy-original",
+            "name": "NumPy"
+        },
+        {
+            "icon": "devicon-pandas-original",
+            "name": "Pandas"
+        },
+        {
+            "icon": "devicon-scikit-learn-plain",
+            "name": "Scikit-learn"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-matplotlib-plain",
+            "name": "Matplotlib"
         }
     ],
     "experience": [
