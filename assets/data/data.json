@@ -102,9 +102,36 @@
                     "name": "Scikit-learn"
                 }
             ],
-            "image": "/py2_housing_price",
+            "image": "/py2_housing_price.png",
             "github": "https://github.com/Miguel9Angel/home_prices_predictor.git"
+        },
+        {
+            "icon": "bar-chart-4",
+            "title": "Spam message detector",
+            "subtitle": "Personal Project",
+            "description": "A data science project aimed at predicting spam messages using supervised regression techniques.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-pandas-plain",
+                    "name": "Pandas"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Scikit-learn"
+                }
+            ],
+            "image": "/spam_detecto.png",
+            "github": "https://github.com/Miguel9Angel/SMS_spam_detector.git"
         }
+
     ],
     "training": [
         {

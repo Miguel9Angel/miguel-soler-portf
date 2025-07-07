@@ -7,7 +7,7 @@ from portafolio.styles.styles import Size
 
 def extra(extras: list[Extra]) -> rx.Component:
     return rx.vstack(
-        heading("Extra"),
+        heading("Courses"),
         rx.mobile_only(
             rx.vstack(
                 *[
@@ -25,7 +25,7 @@ def extra(extras: list[Extra]) -> rx.Component:
                     for extra in extras
                 ],
                 spacing=Size.DEFAULT.value,
-                columns="3"
+                columns="5"
             ),
             width="100%"
         ),
