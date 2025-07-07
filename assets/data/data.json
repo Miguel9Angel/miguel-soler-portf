@@ -165,11 +165,13 @@
         {
             "image": "/platzi.jpg",
             "title": "Notebooks and Anaconda",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/2434-course/diploma/detalle/"
         },
         {
             "image": "/platzi.jpg",
             "title": "Pandas and Numpy",
+            "description": "",
             "url": "https://platzi.com/p/leimik/curso/2912-course/diploma/detalle/"
         },
         {
