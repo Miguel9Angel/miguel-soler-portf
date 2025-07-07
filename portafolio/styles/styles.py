@@ -2,7 +2,7 @@ from enum import Enum
 import reflex as rx
 
 MAX_WIDTH = "900px"
-IMAGE_HEIGHT = "100px"
+IMAGE_HEIGHT = "80px"
 
 
 class EmSize(Enum):

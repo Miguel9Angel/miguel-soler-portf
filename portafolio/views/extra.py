@@ -25,7 +25,7 @@ def extra(extras: list[Extra]) -> rx.Component:
                     for extra in extras
                 ],
                 spacing=Size.DEFAULT.value,
-                columns="5"
+                columns="6"
             ),
             width="100%"
         ),

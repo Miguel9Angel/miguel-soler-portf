@@ -23,7 +23,7 @@
             "name": "NumPy"
         },
         {
-            "icon": "devicon-pandas-original-wordmark",
+            "icon": "devicon-pandas-plain",
             "name": "Pandas"
         },
         {
@@ -139,7 +139,7 @@
             "title": "Mechanical Engineer",
             "subtitle": "Escuela Tecnologica Instituto Tecnico Central",
             "description": "Focused on mechanical design",
-            "date": "June 2018 - April 2022"
+            "date": "June 2018 - April 2024"
         },
         {
             "icon": "school",
@@ -203,7 +203,7 @@
         },
         {
             "image": "/platzi.jpg",
-            "title": "Matplotlib amd seaborn",
+            "title": "Matplotlib and seaborn",
             "description": " ",
             "url": "https://platzi.com/p/leimik/curso/2913-course/diploma/detalle/"
         },
