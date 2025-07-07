@@ -4,6 +4,6 @@ from portafolio.components.heading import heading
 
 def about(description: str) -> rx.Component:
     return rx.vstack(
-        heading("Sobre mí"),
+        heading("About me"),
         rx.text(description)
     )

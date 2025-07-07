@@ -60,7 +60,7 @@
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-pandas-original",
+                    "icon": "devicon-pandas-plain",
                     "name": "Pandas"
                 },
                 {
@@ -68,7 +68,7 @@
                     "name": "Matplotlib"
                 },
                 {
-                    "icon": "devicon-scikit-learn-plain",
+                    "icon": "devicon-scikitlearn-plain",
                     "name": "Scikit-learn"
                 },
                 {
@@ -80,57 +80,107 @@
             "github": "https://github.com/Miguel9Angel/home_prices_predictor.git"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "bar-chart-4",
+            "title": "Home Price Predictor",
+            "subtitle": "Personal Project",
+            "description": "A data science project aimed at predicting home prices using supervised regression techniques.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-pandas-plain",
+                    "name": "Pandas"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Scikit-learn"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/py2_housing_price",
+            "github": "https://github.com/Miguel9Angel/home_prices_predictor.git"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "graduation-cap",
+            "title": "Mechanical Engineer",
+            "subtitle": "Escuela Tecnologica Instituto Tecnico Central",
+            "description": "Focused on mechanical design",
+            "date": "June 2018 - April 2022"
         },
         {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "certificate",
+            "title": "Google Data Analytics",
+            "subtitle": "Coursera",
+            "description": "Professional certificate covering data cleaning, analysis, visualization, and SQL using real-world business scenarios.",
+            "date": "April 2025",
+            "certificate": "https://coursera.org/share/a7c9dd97708037a2592a0c5237077d9a"
+        },
+        {
+            "icon": "certificate",
+            "title": "Google Advanced Data Analytics",
+            "subtitle": "Coursera",
+            "description": "Advanced training in statistics, machine learning, predictive modeling, and data-driven decision making using Python.",
+            "date": "June 2025",
+            "certificate": "https://coursera.org/share/d1099f8130392e2288f8a4bd13d7cf85"
         }
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "image": "/platzi.jpg",
+            "title": "Logical Thinking",
+            "url": "https://platzi.com/p/leimik/curso/3222-course/diploma/detalle/"
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "image": "/platzi.jpg",
+            "title": "Algorithms and Flowcharts",
+            "url": "https://platzi.com/p/leimik/curso/3221-course/diploma/detalle/"
         },
         {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "/platzi.jpg",
+            "title": "Fundamentals of Mathematics",
+            "url": "https://platzi.com/p/leimik/curso/1393-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Introduction to command line",
+            "url": "https://platzi.com/p/leimik/curso/2292-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Basic Excel",
+            "url": "https://platzi.com/p/leimik/curso/4036-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Notebooks and Anaconda",
+            "url": "https://platzi.com/p/leimik/curso/2434-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Pandas and Numpy",
+            "url": "https://platzi.com/p/leimik/curso/2912-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Matplotlib amd seaborn",
+            "url": "https://platzi.com/p/leimik/curso/2913-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Intermediate Excel",
+            "url": "https://platzi.com/p/leimik/curso/4037-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Descriptive Statistics",
+            "url": "https://platzi.com/p/leimik/curso/2353-course/diploma/detalle/"
         }
     ]
 }
