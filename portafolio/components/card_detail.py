@@ -23,7 +23,7 @@ def card_detail(extra: Extra) -> rx.Component:
                 color_scheme="gray"
             )
         ),
-        width="80%",
+        width="100%",
         href=extra.url,
         is_external=True
     )
