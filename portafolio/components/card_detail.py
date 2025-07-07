@@ -6,7 +6,6 @@ from portafolio.styles.styles import IMAGE_HEIGHT, Size
 
 def card_detail(extra: Extra) -> rx.Component:
     return rx.card(
-        rx.link(
             rx.inset(
                 rx.image(
                     src=extra.image,
@@ -21,8 +20,7 @@ def card_detail(extra: Extra) -> rx.Component:
                 extra.description,
                 size=Size.SMALL.value,
                 color_scheme="gray"
-            )
-        ),
+            ),
         width="100%",
         href=extra.url,
         is_external=True
