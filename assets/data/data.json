@@ -8,7 +8,7 @@
     "location": "Bogotá, Colombia",
     "media": {
         "email": "m.angel.s.o@hotmail.com",
-        "cv": "/data/cv.pdf",
+        "cv": "/data/Miguel_Soler_CV.pdf",
         "github": "https://github.com/Miguel9Angel",
         "likedin": "https://linkedin.com/in/miguel-soler-ml"
     },
@@ -146,7 +146,7 @@
             "title": "Google Data Analytics",
             "subtitle": "Coursera",
             "description": "Professional certificate covering data cleaning, analysis, visualization, and SQL using real-world business scenarios.",
-            "date": "April 2025",
+            "date": "March 2025",
             "certificate": "https://coursera.org/share/a7c9dd97708037a2592a0c5237077d9a"
         },
         {
@@ -218,6 +218,42 @@
             "title": "Descriptive Statistics",
             "description": " ",
             "url": "https://platzi.com/p/leimik/curso/2353-course/diploma/detalle/"
-        }
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Python for Data Science",
+            "description": " ",
+            "url": "https://platzi.com/p/leimik/curso/10365-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Exploratory Data Analysis",
+            "description": " ",
+            "url": "https://platzi.com/p/leimik/curso/3568-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Introduction to Java",
+            "description": " ",
+            "url": "https://platzi.com/p/leimik/curso/1631-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Introduction to Java",
+            "description": " ",
+            "url": "https://platzi.com/p/leimik/curso/1631-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Object-Oriented JavaScript",
+            "description": " ",
+            "url": "https://platzi.com/p/leimik/curso/2419-course/diploma/detalle/"
+        },
+        {
+            "image": "/platzi.jpg",
+            "title": "Math Functions Data Science",
+            "description": " ",
+            "url": "https://platzi.com/p/leimik/curso/2701-course/diploma/detalle/"
+        }       
     ]
 }
