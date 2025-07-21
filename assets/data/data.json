@@ -106,7 +106,7 @@
             "github": "https://github.com/Miguel9Angel/home_prices_predictor.git"
         },
         {
-            "icon": "bar-chart-4",
+            "icon": "mail",
             "title": "Spam message detector",
             "subtitle": "Personal Project",
             "description": "A data science project aimed at predicting spam messages using supervised regression techniques.",
@@ -132,7 +132,7 @@
             "github": "https://github.com/Miguel9Angel/SMS_spam_detector.git"
         },
         {
-            "icon": "bar-chart-4",
+            "icon": "chef-hat",
             "title": "Restaurant API",
             "subtitle": "Personal Project",
             "description": "This project demonstrates the practical application of concepts and skills learned during the REST API Development with Django course on Coursera.",
