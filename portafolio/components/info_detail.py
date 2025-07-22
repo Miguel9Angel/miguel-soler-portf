@@ -46,13 +46,6 @@ def info_detail(info: Info) -> rx.Component:
                             "github",
                             info.github
                         )
-                    ),
-                    rx.cond(
-                        info.tableau != "",
-                        icon_button(
-                            "tableau",
-                            info.tableau
-                        )
                     )
                 ),
                 spacing=Size.SMALL.value,
