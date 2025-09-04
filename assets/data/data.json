@@ -81,6 +81,36 @@
         },
         {
             "icon": "bar-chart-4",
+            "title": "Neural Network from Scratch",
+            "subtitle": "Personal Project",
+            "description": "General neural network development with some of the most important configurations to understand the basic of functionality of a neural network",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-numpy-plain",
+                    "name": "NumPy"
+                },
+                {
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "Matplotlib"
+                },
+                {
+                    "icon": "devicon-scikitlearn-plain",
+                    "name": "Scikit-learn"
+                },
+                {
+                    "icon": "devicon-keras-plain",
+                    "name": "Keras"
+                }
+            ],
+            "image": "/Neural_Net.png",
+            "github": "https://github.com/Miguel9Angel/Neural-Network.git"
+        },
+        {
+            "icon": "bar-chart-4",
             "title": "Home Price Predictor",
             "subtitle": "Personal Project",
             "description": "A data science project aimed at predicting home prices using supervised regression techniques.",
