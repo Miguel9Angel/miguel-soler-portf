@@ -83,7 +83,7 @@
             "icon": "bar-chart-4",
             "title": "Neural Network from Scratch",
             "subtitle": "Personal Project",
-            "description": "General neural network development with some of the most important configurations to understand the basic of functionality of a neural network",
+            "description": "General neural network development with some of the most important configurations to understand the basic concepts of neural netwoek functionality",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
