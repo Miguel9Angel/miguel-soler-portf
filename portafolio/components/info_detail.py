@@ -48,9 +48,9 @@ def info_detail(info: Info) -> rx.Component:
                         )
                     ),
                     rx.cond(
-                        info.github != "",
+                        info.streamlit != "",
                         icon_button(
-                            "streamlit",
+                            "app-window"",
                             info.streamlit
                         )
                     )

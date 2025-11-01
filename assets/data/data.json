@@ -108,7 +108,8 @@
                 }
             ],
             "image": "/Neural_Net.png",
-            "github": "https://github.com/Miguel9Angel/Neural-Network.git"
+            "github": "https://github.com/Miguel9Angel/Neural-Network.git",
+            "streamlit": ""
         },
         {
             "icon": "bar-chart-4",
@@ -138,7 +139,8 @@
                 }
             ],
             "image": "",
-            "github": "https://github.com/Miguel9Angel/Convolutional-Neural-Network.git"
+            "github": "https://github.com/Miguel9Angel/Convolutional-Neural-Network.git",
+            "streamlit": ""
         },
         {
             "icon": "bar-chart-4",
@@ -164,7 +166,8 @@
                 }
             ],
             "image": "/py2_housing_price.png",
-            "github": "https://github.com/Miguel9Angel/home_prices_predictor.git"
+            "github": "https://github.com/Miguel9Angel/home_prices_predictor.git",
+            "streamlit": ""
         },
         {
             "icon": "mail",
@@ -190,7 +193,8 @@
                 }
             ],
             "image": "/spam_detecto.png",
-            "github": "https://github.com/Miguel9Angel/SMS_spam_detector.git"
+            "github": "https://github.com/Miguel9Angel/SMS_spam_detector.git",
+            "streamlit": ""
         },
         {
             "icon": "chef-hat",
@@ -208,7 +212,8 @@
                 }
             ],
             "image": "",
-            "github": "https://github.com/Miguel9Angel/RestaurantAPI.git"
+            "github": "https://github.com/Miguel9Angel/RestaurantAPI.git",
+            "streamlit": ""
         }
 
     ],
