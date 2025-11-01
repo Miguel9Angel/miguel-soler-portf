@@ -50,7 +50,7 @@ def info_detail(info: Info) -> rx.Component:
                     rx.cond(
                         info.streamlit != "",
                         icon_button(
-                            "app-window"",
+                            "app-window",
                             info.streamlit
                         )
                     )
