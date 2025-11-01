@@ -46,6 +46,13 @@ def info_detail(info: Info) -> rx.Component:
                             "github",
                             info.github
                         )
+                    ),
+                    rx.cond(
+                        info.github != "",
+                        icon_button(
+                            "streamlit",
+                            info.streamlit
+                        )
                     )
                 ),
                 spacing=Size.SMALL.value,

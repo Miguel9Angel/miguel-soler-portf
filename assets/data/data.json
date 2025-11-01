@@ -77,7 +77,8 @@
                 }
             ],
             "image": "/py1_rental_apto_bogota.png",
-            "github": "https://homepriceapp-n3hlmrwap3pwhazafebaub.streamlit.app/"
+            "github": "https://github.com/Miguel9Angel/home_price_bogota",
+            "streamlit": "https://homepriceapp-n3hlmrwap3pwhazafebaub.streamlit.app/"
         },
         {
             "icon": "bar-chart-4",
